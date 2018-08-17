@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-lambot-vacuum",
+  "version": "0.0.1",
+  "description": "Homebridge plugin for Lambot vacuum robot",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "lambot",
+    "vacuum cleaner"
+  ],
+  "dependencies": {
+    "request": "^2.81.0",
+    "uuid": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Benniu/homebridge-lambot-vacuum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Benniu/homebridge-lambot-vacuum/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0",
+    "homebridge": ">=0.4.1"
+  }
+}
